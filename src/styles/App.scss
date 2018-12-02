@@ -1,0 +1,54 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: #2E2E2E;
+  color: #EDEDED;
+  font-family: 'IBM Plex Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.5rem
+}
+
+.reveal pre {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .progress {
+  top: 0;
+  height: 4px;
+  bottom: auto;
+  background-color: transparent;
+  color: #EDEDED;
+}
+
+.reveal h1 {
+  margin-bottom: 32px;
+  font-size: 56px;
+  line-height: 72px;
+  font-weight: 600;
+}
+
+.reveal p {
+  margin-bottom: 32px;
+}
+
+.reveal ul {
+  list-style-position: inside;
+}
+
+.reveal li {
+  margin-bottom: 16px;
+  // padding-left: 16px;
+}
+
+.PhraseSlide h1 {
+  font-size: 80px;
+  line-height: 96px;
+  font-weight: 600;
+}
